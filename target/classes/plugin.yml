@@ -1,0 +1,14 @@
+name: VIPAccess
+version: '1.0-SNAPSHOT'
+main: by.t1pe.vIPAccess.VIPAccess
+api-version: '1.21'
+authors: [ t1pe ]
+description: Made by Grok3
+commands:
+  vipaccess:
+    description: Управление плагином VIPAccess
+    usage: /<command> [args]
+permissions:
+  vipaccess.admin:
+    description: Доступ к админ-командам
+    default: op

@@ -1,0 +1,5 @@
+# config.yml (default)
+enabled: true
+required-permission: "server.vip"
+kick-message: "Нет доступа!"
+redirect-server: ""
