@@ -19,19 +19,19 @@ redirect-server: '' # PLS DONT`T CHANGE, IT`S BROKEN
 ```
 
 ### Commands
+```
+/vipaccess help - Show help lable
 
-_/vipaccess help_ - Show help lable
+/vipaccess reload - Reload plugin
 
-_/vipaccess reload_ - Reload plugin
+/vipaccess enabled [true/false] - Enable/disable plugin
 
-_/vipaccess enabled [true/false]_ - Enable/disable plugin
+/vipaccess required-permission [permission] - Set permission required to join the server (if <permission> == true, connect the player)
 
-_/vipaccess required-permission [permission]_ - Set permission required to join the server (if <permission> == true, connect the player)
+/vipaccess kick-message [message] - Set the message displayed to the player when access is denied
 
-_/vipaccess kick-message [message]_ - Set the message displayed to the player when access is denied
-
-_/vipaccess stats_ - Show statistics (how many players have been disconnected in total)
-
+/vipaccess stats - Show statistics (how many players have been disconnected in total)
+```
 ## logs.yml
 
 ```
