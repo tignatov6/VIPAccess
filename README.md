@@ -1,5 +1,7 @@
 # Simple plugin that prevents players from joing your server without specific permission.
 
+### This plugin on [Modrinth](https://modrinth.com/plugin/vipaccess)
+
 Simply add the plugin to the server and restart it.
 A configuration and log file will be created at the specified path.
 ```
